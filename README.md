@@ -1,6 +1,6 @@
 # 基于 Apache Flink 的流处理
 
-## [第一章 状态化流处理概述](../doc/chapter1.md)
+## [第一章 状态化流处理概述](/doc/chapter1.md)
 ## [第二章 流处理基础](../doc/chapter2.md)
 ## [第三章 Apache Flink 架构](../doc/chapter3.md)
 ## [第四章 Apache Flink 开发环境](../doc/chapter4.md)
